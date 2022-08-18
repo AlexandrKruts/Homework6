@@ -19,3 +19,5 @@ alert("Деление:",Division);
 
 let Exponentiation=x**y;
 alert("Возведение в степень", Exponentiation);
+
+console.log("New feature");
